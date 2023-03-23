@@ -1,0 +1,1 @@
+import{o as e,a as t,b as a}from"./entry.ef379378.js";const o=a("p",null,"This page will be displayed at the /about route.",-1),s=[o],r={__name:"about",setup(_){return(c,l)=>(e(),t("div",null,s))}};export{r as default};
