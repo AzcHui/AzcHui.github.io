@@ -1,1 +1,0 @@
-import{o as e,a as t,b as o}from"./entry.34ef79e5.js";const a=o("p",null,"This page will be displayed at the iconify route.",-1),s=[a],l={__name:"iconify",setup(c){return(n,i)=>(e(),t("div",null,s))}};export{l as default};
