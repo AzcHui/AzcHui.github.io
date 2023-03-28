@@ -1,0 +1,1 @@
+import{o as e,a as t,b as i}from"./entry.9e2b607f.js";const o={style:{height:"100%"}},s=i("iframe",{src:"https://iconify.design/",id:"iframe",title:"iconify",scrolling:"auto",frameborder:"0",width:"100%",height:"100%"},null,-1),_=[s],l={__name:"iconify",setup(n){return(c,a)=>(e(),t("div",o,_))}};export{l as default};

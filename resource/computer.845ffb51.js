@@ -1,0 +1,1 @@
+import{o as e,a as t,b as o}from"./entry.9e2b607f.js";const r={style:{height:"100%"}},s=o("iframe",{src:"https://henryheffernan.com/",id:"iframe",title:"computer",scrolling:"auto",frameborder:"0",width:"100%",height:"100%"},null,-1),_=[s],h={__name:"computer",setup(c){return(a,n)=>(e(),t("div",r,_))}};export{h as default};

@@ -1,1 +1,0 @@
-import{o as e,a,b as t}from"./entry.c5aaad9f.js";const o=t("p",null,"This page will be displayed at the /dashboard route.",-1),s=[o],l={__name:"dashboard",setup(r){return(_,c)=>(e(),a("div",null,s))}};export{l as default};

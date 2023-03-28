@@ -1,0 +1,1 @@
+.app-index{height:100%;position:relative}.app-index .calendar{position:absolute;right:0;top:0;width:330px}.app-index .calendar .calendar-content{display:flex;flex-wrap:wrap}.app-index .calendar .calendar-content>div{border-bottom:1px solid #ccc;padding:6px 0;width:20%}.app-index .calendar .calendar-content>div:nth-child(2n){width:80%}

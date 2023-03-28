@@ -1,0 +1,1 @@
+import{o as e,a as t,b as o}from"./entry.9e2b607f.js";const s={style:{height:"100%"}},_=o("iframe",{src:"https://we.dog/",id:"iframe",title:"舔狗日记",scrolling:"auto",frameborder:"0",width:"100%",height:"100%"},null,-1),a=[_],n={__name:"dogdiary",setup(r){return(i,c)=>(e(),t("div",s,a))}};export{n as default};

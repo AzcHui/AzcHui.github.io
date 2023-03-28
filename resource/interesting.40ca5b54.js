@@ -1,0 +1,1 @@
+import{o as t,a as o,p as n,v as _}from"./entry.9e2b607f.js";const s={style:{height:"100%"}},i={__name:"interesting",setup(a){return(c,r)=>{const e=_;return t(),o("div",s,[n(e)])}}};export{i as default};

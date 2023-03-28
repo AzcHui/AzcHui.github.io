@@ -1,0 +1,1 @@
+import{o as e,a as t,b as s}from"./entry.9e2b607f.js";const a={style:{height:"100%"}},_=s("iframe",{src:"https://chishenme.xyz/",id:"iframe",title:"中午吃什么",scrolling:"auto",frameborder:"0",width:"100%",height:"100%"},null,-1),o=[_],h={__name:"eatwhat",setup(r){return(c,i)=>(e(),t("div",a,o))}};export{h as default};
